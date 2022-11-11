@@ -51,8 +51,8 @@ const handleSubmit=(e) =>{
 				<i></i>
 			</div>
 			<div className="links">
-				<a href="#/">Forgot Password ?!</a>
-				<Link to="/signup">Signup</Link>
+				<Link to={"#/"}>Forgot Password ?!</Link>
+				<Link to={"/signup"}>Signup</Link>
 			</div>
 			<input type="submit" value="Login"/>
 		</form>

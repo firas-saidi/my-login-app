@@ -65,7 +65,7 @@ const Signup =()=> {
 			</div>
 			<div className="links">
 				
-				<a href="/signin">SignIn</a>
+				<Link to={"/signin"}>SignIn</Link>
 			</div>
 			<input type="submit" value="Login"/>
 		</form>
