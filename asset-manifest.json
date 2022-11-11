@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-login-app/static/css/main.ddfbf2ef.css",
-    "main.js": "/my-login-app/static/js/main.f1136fba.js",
+    "main.js": "/my-login-app/static/js/main.757f4151.js",
     "index.html": "/my-login-app/index.html",
     "main.ddfbf2ef.css.map": "/my-login-app/static/css/main.ddfbf2ef.css.map",
-    "main.f1136fba.js.map": "/my-login-app/static/js/main.f1136fba.js.map"
+    "main.757f4151.js.map": "/my-login-app/static/js/main.757f4151.js.map"
   },
   "entrypoints": [
     "static/css/main.ddfbf2ef.css",
-    "static/js/main.f1136fba.js"
+    "static/js/main.757f4151.js"
   ]
 }
